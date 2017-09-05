@@ -9,7 +9,7 @@ I work on a lot of stuff, mostly in design and code, but I also write articles a
 
 > Legend:
 
-> ❇️ Free as in beer.
+> ❇️ Free as in air.
 
 > ⚠️ Free, but not open source.
 
