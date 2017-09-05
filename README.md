@@ -1,7 +1,9 @@
 # Recommended Software Stack
 ## MKRhere/r/
 
-Hello, I'm Muthu Kumar (MKR). I work on a lot of stuff, generally in design and code, but I also write articles and stories, make films and stuff. Due to my varied interests, I think it's worth putting out my recommended software for anyone to find use in it. If you were looking for something, this might help you. Also, if you are violently fuming out there over my choice, feel free to comment your frustration out. We're here to learn.
+Hello, I'm Muthu Kumar.
+
+I work on a lot of stuff, mostly in design and code, but I also write articles and stories, make films and stuff. Due to my varied interests, I think it's worth putting out my recommended software for anyone to find use in it. Hence I made the `/r/` repository. If you were looking for something, this might help you. Also, if you are violently fuming out there over my choice, feel free to `issue` your frustration out. We're here to learn.
 
 > Note: I personally use these software. Most are open source, cross platform, and preferably have a portable option. Some might be unconventional or unpopular choices, but it works for my requirements. It might or might not work for you.
 
@@ -43,7 +45,7 @@ Hello, I'm Muthu Kumar (MKR). I work on a lot of stuff, generally in design and 
 
 ### IDE
 
-- ❇️ **Visual Studio Code**—free, open source, cross platform; developed by Microsoft; the only IDE I've ever needed since I shifted.
+- ❇️ **Visual Studio Code**—free, open source, cross platform; developed by Microsoft; the only IDE I've ever needed since I shifted over.
 - ⚠️ **CodePen.io** (Web)—when you need to collaborate with someone online.
 
 ### SASS
@@ -52,4 +54,4 @@ Hello, I'm Muthu Kumar (MKR). I work on a lot of stuff, generally in design and 
 
 ### Operating System
 
-- ❌**Microsoft Windows**: Oh yes, so much for open source. Bring the hell on. But as you can probably notice, some of the software I'm used to are only available on Windows. I'm gradually replacing some of my dependencies to open source where possible, but I'm not Richard Stallman.
+- ❌**Microsoft Windows**: Oh yes, so much for open source. Bring the hate on. But as you can probably notice, some of the software I'm used to are only available on Windows. I'm gradually replacing some of my dependencies to open source where possible, but I'm not Richard Stallman.
