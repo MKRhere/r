@@ -38,16 +38,15 @@ I work on a lot of stuff, mostly in design and code, but I also write articles a
 
 ### Operating System
 
-- ❌ **Microsoft Windows**: Oh yes, so much for open source. Bring the hate on. But as you can probably notice, some of the software I'm used to are only available on Windows. I'm gradually replacing some of my dependencies to open source where possible, but I'm not Richard Stallman.
-- ❇️ **Ubuntu Server**:  All my servers start as Ubuntu. I think the community alone is a good reason.
-- ❇️ **Kubuntu**: Some times, I like to have an environment similar to my servers but Gnome DE is absolute misery. Hence, KDE on Ubuntu.
+- ❌ **Microsoft Windows**: Oh yes, so much for open source. Bring the hate on. But as you can probably notice, some of the software I'm used to are only available on Windows and good alternatives don't exist. I'm gradually replacing some of my dependencies to open source where possible, but I'm not Richard Stallman.
+- ❇️ **Debian GNU/Linux**: Debian is absolute bae. My search for the perfect OS came to an end on meeting Debian. I also use Gnome 3, which is perfect, along with Ant Bloody Theme.
+- ❇️ **Ubuntu Server**:  All my servers are Ubuntu. I think the community support alone is a good reason.
 
 ### Programming Languages
 
 - ❇️ **HTML/CSS**
 - ❇️ **Sass**—The indented syntax. Life is so much easier.
 - ❇️ **Node JS**, of course.
-- ❇️ **Python**, occasionally. Not experienced.
 
 ### Photo Editor
 
@@ -56,7 +55,6 @@ I work on a lot of stuff, mostly in design and code, but I also write articles a
 ### SASS
 
 - ❇️ **sass cli** - Well, nothing beats the good ol' cli.
-- ~🚫 ❇️ **Scout App**—it just works. Add a project and scout will automatically find existing SASS and compiled CSS files.~
 
 ### Vector Design
 
@@ -70,4 +68,3 @@ I work on a lot of stuff, mostly in design and code, but I also write articles a
 ### Web Browser
 
 - ❇️ **Firefox Developer Edition**—use this for web development. Grid inspector, visual CSS animation editor are great additions.
-- ~🚫 ⚠️ **Opera Browser** for general browsing—offers a suite of features like free VPN, built-in ad blocking, data saving, Opera CDN, etc. Do not try to use this for development.~
