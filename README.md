@@ -1,71 +1,84 @@
-# Recommended Software Stack
-## MKRhere/r/
+# MKRhere/r My Recommended Software Stack
 
 Hello, I'm Muthu Kumar.
 
-I work on a lot of stuff, mostly in design and code, but I also write articles and stories, make films and stuff. Due to my varied interests, I think it's worth putting out my recommended software for anyone to find use in it. Hence I made the `/r/` repository. If you were looking for something, this might help you. Also, if you are violently fuming out there over my choice, feel free to `issue` your frustration out. We're here to learn.
-
-> Note: I personally use these software. Most are open source, cross platform, and preferably have a portable option. Some might be unconventional or unpopular choices, but it works for my requirements. It might or might not work for you. Categories are alphabetically sorted, and lists are prioritized primary first.
+I work on a lot of stuff, mostly in design and code, but I also write articles and stories, make films and stuff.
 
 > Legend:
 
 > ❇️ Free and open source.
-
+>
 > ⚠️ Free to use, but not open source.
-
+>
 > 🛑 Not free, not open source.
-
+> 
 > 🚫 Used to use, now no more. Will remove from list soon.
 
+### Operating System
+
+- ❇️ **Debian GNU/Linux**: Debian is my powerhouse, running on my workstation. I have a very minimal i3-gaps setup.
+- 🛑 **Microsoft Windows**: ~~Since I work in design and video production, many of my tools are available only on Windows.~~ This is no longer true since DaVinci Resolve is on Linux and Figma/Penpot are on the web, but I still have Windows on my laptop, "just in case".
+- ❇️ **Ubuntu Server**:  My server has been running Ubuntu for quite a long time. I should probably migrate to Debian soon.
+
+### Web Browser
+
+- ❇️ **Firefox Developer Edition**: use this for web development. Grid inspector, visual CSS animation editor are great additions.
+
+### IDE
+
+- ❇️ **Visual Studio Code**: free, open source, cross platform; developed by Microsoft; the only IDE I've ever needed since I shifted over.
+
+### Messaging
+
+I am on WhatsApp and other platforms for connectivity, but you'll find me mostly on:
+
+- ❇️ **[Telegram](https://telegram.org)**: open source, cross platform, supports some Markdown and code formatting; vibrant and active developer community.
+
+### Programming Languages, frameworks & platforms
+
+- ❇️ **[TypeScript](https://www.typescriptlang.org)**
+- ❇️ **HTML/CSS**
+- ❇️ **[Zig](https://ziglang.org)** ⚡️
+
+### Runtimes
+
+- ❇️ **Node**
+- ❇️ **Deno**
+- ❇️ **Bun**
+
+### Preferred databases
+- ❇️ **MongoDB**
+- ❇️ **Postgres**
+- ❇️ **MariaDB**
+
+### Photo Editor
+
+- ⚠️ **[Photopea](https://www.photopea.com)**: Free online editor with somewhat similar toolset to Adobe Photoshop
+- 🛑 **[Affinity Photo](https://affinity.serif.com/en-gb/photo)**: Another competitor to Adobe Photoshop
+- 🚫 **Adobe Photoshop**
+
+### Vector Design
+
+- 🛑 **[Figma](https://www.figma.com)**: Figma is currently my go-to for UI/UX design.
+- ❇️ **[Penpot](https://penpot.app)**: Figma is going to the dogs, and Penpot is looking more and more attractive.
+
+### Video Editing
+
+- ⚠️ **[DaVinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve)**: <u>THIS</u> is _FREE_?! Why exactly do people pay for Premiere?
+- 🛑 ~~**Adobe Premiere Pro**: I've switched to Premiere this year, and it's an amazing experience. I no longer have to improvise for features that it provides out of the box.~~
+- 🚫 ~~**Sony Vegas Pro**: not free, not the best editing software out there, but if you can improvise, can be very powerful for your workflow.~~
+
+
 ### Architectural drafting & modeling
+
+Archaic section. I haven't worked in architecture in a long time.
 
 - 🛑 **Autodesk AutoCAD**: (2D)—there's simply no reasonably good option for a good 2D drafting software like AutoCAD.
 - 🛑 **Trimble SketchUp**: (3D)—not free, not the best, but can get a lot of very good work done. Never felt the need to upgrade to something like 3DS Max or Blender.
 
 ### Architectural rendering
 
+Archaic section. I haven't worked in architecture in a long time.
+
 - 🛑 **iRender for SketchUp**: works better for my personal style of textureless rendering.
 - 🛑 **Vray for SketchUp**: if you know how to, this plugin will help you make breathtaking, photorealistic renders.
-
-### IDE
-
-- ❇️ **Visual Studio Code**: free, open source, cross platform; developed by Microsoft; the only IDE I've ever needed since I shifted over.
-- 🚫 ~~**CodePen.io**: (Web)—when you need to collaborate with someone online.~~
-
-### Messaging
-
-- ❇️ **Telegram**: open source, cross platform, supports some Markdown and code formatting; vibrant and active developer community.
-
-### Operating System
-
-- 🛑 **Microsoft Windows**: Since I work in design and video production, many of my tools are available only on Windows.
-- ❇️ **Debian GNU/Linux**: Debian is absolute bae. I have a very minimal i3-gaps setup.
-- ❇️ **Ubuntu Server**:  My server has been running Ubuntu for quite a long time.
-
-### Programming Languages, frameworks & platforms
-
-- ❇️ **HTML/CSS**
-- ❇️ **React**
-- ❇️ **node.js/Express**
-- ❇️ **MongoDB**
-- ❇️ **Postgres**
-- 🚫 ~~**Sass**: The indented syntax. Life is so much easier.~~
-
-### Photo Editor
-
-- 🛑 **Adobe Photoshop**
-
-### Vector Design
-
-- 🛑 **Adobe Illustrator**: not free, not available for Linux, but still the leader out there.
-- 🛑 **Figma**: Figma is currently my go-to for UI/UX design.
-- ⚠️ ~~**Gravit Designer**: free, cross-platform (not open source though), simple and powerful vector design software.~~
-
-### Video Editing
-
-- 🛑 **Adobe Premiere Pro**: I've switched to Premiere this year, and it's an amazing experience. I no longer have to improvise for features that it provides out of the box.
-- 🚫 ~~**Sony Vegas Pro**: not free, not the best editing software out there, but if you can improvise, can be very powerful for your workflow.~~
-
-### Web Browser
-
-- ❇️ **Firefox Developer Edition**: use this for web development. Grid inspector, visual CSS animation editor are great additions.
